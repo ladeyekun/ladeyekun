@@ -22,7 +22,16 @@ My goal is to continue creating impactful projects, connect with like-minded ind
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
-![Lateef's stats](https://github-readme-stats.vercel.app/api?username=ladeyekun&theme=transparent&show_icons=true&bg_color=00000000)
+## Stats
+
+![Contrinutions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ladeyekun&theme=transparent)
+
+<a href="#">
+  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ladeyekun&theme=transparent)
+</a>
+<a href="#">
+  ![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ladeyekun&theme=transparent)
+</a>
 
 <!--
 **ladeyekun/ladeyekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
