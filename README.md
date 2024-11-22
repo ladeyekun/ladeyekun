@@ -2,11 +2,12 @@
 
 ![Banner](https://vending.tisdynamicssolutions.com/images/banner.jpg)
 
-I am Lateef Adeyekun, a backend developer and current software developer student at Manitoba Institute of Trades and Technology (MITT). I am passionate about building web applications that not just works efficiently but looks professioanl.
+I am Lateef Adeyekun, a backend developer and a current Software Development student at the Manitoba Institute of Trades and Technology (MITT). I am passionate about building web applications that are not only efficient but also professionally designed.
 
-My love for technology started during my undergraduate days out of curiousity of understanding how computer works and led me into my interest in software development space. I have worked with PHP, MySQL, MSSQL, Java in the past. 
+My love for technology began during my undergraduate days out of curiosity about how computers work, which eventually led me to the exciting world of software development. Over the years, I have gained experience working with technologies such as PHP, MySQL, MSSQL, and Java.
 
-My goal is to continue in my quest to create impactful projects, connect with inspiring people and make some meaningful contributions to the tech space. If we share the same goal, we can connect, share ideas and build something meaningful together
+My goal is to continue creating impactful projects, connect with like-minded individuals, and make meaningful contributions to the tech industry. If you share similar goals, let’s connect, exchange ideas, and build something remarkable together.
+
 
 ## My skills
 
@@ -19,6 +20,7 @@ My goal is to continue in my quest to create impactful projects, connect with in
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
 
 ![Lateef's stats](https://github-readme-stats.vercel.app/api?username=ladeyekun&theme=transparent&show_icons=true&bg_color=00000000)
 
