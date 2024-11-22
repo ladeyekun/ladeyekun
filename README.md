@@ -26,12 +26,9 @@ My goal is to continue creating impactful projects, connect with like-minded ind
 
 ![Contrinutions](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ladeyekun&theme=transparent)
 
-<a href="#">
-  ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ladeyekun&theme=transparent)
-</a>
-<a href="#">
-  ![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ladeyekun&theme=transparent)
-</a>
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ladeyekun&theme=transparent)
+
+![Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ladeyekun&theme=transparent)
 
 <!--
 **ladeyekun/ladeyekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
