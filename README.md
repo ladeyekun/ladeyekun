@@ -20,6 +20,7 @@ My goal is to continue in my quest to create impactful projects, connect with in
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
+![Lateef's stats](https://github-readme-stats.vercel.app/api?username=ladeyekun&show_icons=true&bg_color=00000000)
 
 <!--
 **ladeyekun/ladeyekun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
