@@ -1,6 +1,6 @@
 ## About me 
 
-![Banner](https://vending.tisdynamicssolutions.com/images/banner.jpg)
+![Banner](./assets/img/banner.jpg)
 
 I am Lateef Adeyekun, a backend developer and a current Software Development student at the Manitoba Institute of Trades and Technology (MITT). I am passionate about building web applications that are not only efficient but also professionally designed.
 
