@@ -1,10 +1,10 @@
-## About me 1111
+## About me
 
 ![Banner](./assets/img/banner.jpg)
 
 I am Lateef Adeyekun, a backend developer and a current Software Development student at the Manitoba Institute of Trades and Technology (MITT). I am passionate about building web applications that are not only efficient but also professionally designed.
 
-My love for technology began during my undergraduate days out of curiosity about how computers work, which eventually led me to the exciting world of software development. Over the years, I have gained experience working with technologies such as PHP, MySQL, MSSQL, and Java.
+My love for technology began during my undergraduate days out of curiosity about how computers work, which eventually led me to the exciting world of software development. Over the years, I have gained experience working with technologies such as C#, PHP, ASP.Net, Java, JavaScript, HTML, CSS, MySQL, MSSQL, and Git.
 
 My goal is to continue creating impactful projects, connect with like-minded individuals, and make meaningful contributions to the tech industry. If you share similar goals, let’s connect, exchange ideas, and build something remarkable together.
 
